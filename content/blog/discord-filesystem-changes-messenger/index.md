@@ -4,7 +4,7 @@ date: "2019-08-16T18:13:13.650Z"
 ---
 
 ##Background
-If you ever find yourself needing to know when a file gets updated or removed from a directory when your not at home this is the solution for you!
+If you ever find yourself needing to know when a file gets updated or removed from a directory when you're not at home this is the solution for you!
 
 I have a Raspberry PI which I use to download files while I'm not at home, but sometimes I wonder if the PI has crashed or if the files have completed downloading. With this solution I can use my discord on my phone to check what is still downloading vs what is done. For my setup once the file is completed downloading it gets put into a /completed directory automatically. So for this project we are going to watch the /completed directory for changes.
 
