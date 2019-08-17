@@ -1,5 +1,5 @@
 ---
-title: Get notified on discord when a filesystem changes
+title: Get notified on Discord when a folders content changes using Nodejs
 date: "2019-08-16T18:13:13.650Z"
 ---
 
