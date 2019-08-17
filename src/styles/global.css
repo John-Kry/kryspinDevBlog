@@ -5,10 +5,3 @@ html {
   a{
       color:rgb(0, 0, 0);
   }
-
-  body{
-    visibility: visible;
-  }
-  .wf-active body{
-      visibility: visible;
-  }
