@@ -68,12 +68,7 @@ function SEO({ description, lang, meta, title }) {
           content: metaDescription,
         },
       ].concat(meta)}
-    >
-  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet"/>
-  <link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet"/>
-
-
-    </Helmet>
+    />
   )
 }
 
