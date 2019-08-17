@@ -94,4 +94,4 @@ async function sendFileChangeMessage(content) {
 
 ##More ideas
 - Deploying this onto a rpi
-- Embeding more information into the discord message
+- Embedding more information into the discord message
