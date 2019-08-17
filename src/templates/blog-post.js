@@ -38,6 +38,7 @@ class BlogPostTemplate extends React.Component {
             </p>
           </header>
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
+          <p><a href={`https://github.com/John-Kryspin/kryspinDevBlog/blob/master/content/blog${post.fields.slug}index.md`} >Edit on Github</a></p>
           <hr
             style={{
               marginBottom: rhythm(1),
