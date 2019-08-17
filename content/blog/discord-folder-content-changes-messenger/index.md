@@ -83,7 +83,7 @@ This part is simple. First we get the channel based on the channel id you provid
 ```javascript
 async function sendFileChangeMessage(content) {
     try {
-        await client.channels.get(String(process.env.DISCORD_CHANNEL)).sendMessage(content)
+        await client.channels.get(String(DISCORD_CHANNEL)).sendMessage(content)
         console.log("Message Sent!")
     }
     catch (err){
