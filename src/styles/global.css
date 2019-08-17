@@ -7,7 +7,7 @@ html {
   }
 
   body{
-    visibility: hidden;
+    visibility: visible;
   }
   .wf-active body{
       visibility: visible;
