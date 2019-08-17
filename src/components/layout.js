@@ -66,13 +66,12 @@ class Layout extends React.Component {
           © {new Date().getFullYear()}, Built with
           {` `}
           <a href="https://www.gatsbyjs.org">Gatsby</a>
-          <Link
+          <a href="/rss.xml"
            style={{
             float: "right",
             color: `inherit`,
           }}
-          to={`/rss.xml`}
-          >{"RSS Feed"}</Link>
+          >{"RSS Feed"}</a>
         </footer>
       </div>
     )
