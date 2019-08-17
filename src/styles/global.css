@@ -1,6 +1,14 @@
 html {
     background-color: rgb(197, 255, 195);
+    
   }
   a{
       color:rgb(0, 0, 0);
+  }
+
+  body{
+    visibility: hidden;
+  }
+  .wf-active body{
+      visibility: visible;
   }
