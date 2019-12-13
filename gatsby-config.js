@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Tech Lead`,
+    title: `John Kryspin: IBM Technical Lead`,
     author: `John Kryspin`,
     description: `A blog about Nodejs, React, and tech`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
