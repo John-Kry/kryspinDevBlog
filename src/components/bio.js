@@ -54,8 +54,8 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who works at IBM as the Technical Lead for the <a href={`https://ibm.com/training`}>
-        IBM Skills Gateway Team
+        Written by <strong>{author}</strong> who works at IBM as the Lead Software Engineer for the <a href={`https://www.ibm.com/training`}>
+          IBM Training Team
         </a>
       </p>
     </div>
